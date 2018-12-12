@@ -1,7 +1,7 @@
 # parcel-petmate
 
 ## What is this?
-An app that is powered by Parcel, using the Petfinder API to create an application to look for animals near a specific zipcode.
+An app to look for animals near a specific zipcode in the US, the app is powered by Parcel and it is using the Petfinder API.
 
 ## Features
 
