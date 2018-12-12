@@ -63,4 +63,5 @@ function showAnimals(pets) {
 
     results.appendChild(div);
   });
+  
 }
