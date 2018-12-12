@@ -1,0 +1,25 @@
+{
+  "name": "parcel-petmate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemjemzms/parcel-petmate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemjemzms/parcel-petmate/issues"
+  },
+  "homepage": "https://github.com/jemjemzms/parcel-petmate#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "fetch-jsonp": "^1.1.3"
+  }
+}
