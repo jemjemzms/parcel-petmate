@@ -22,6 +22,6 @@ An app to look for animals near a specific zipcode in the US, the app is powered
 
 ## 💫 Links
 
-[See API](https://www.petfinder.com/developer/api-docs)
+[See API](https://www.petfinder.com/developers/api-docs)
 
 [See Demo](http://petmate.ricdiaz.com)
